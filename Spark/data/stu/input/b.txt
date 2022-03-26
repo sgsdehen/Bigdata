@@ -1,0 +1,2 @@
+1,scan
+2,shopping

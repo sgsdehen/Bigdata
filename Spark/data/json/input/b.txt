@@ -1,0 +1,2 @@
+{"name": "zhangsan", "info": {"playBasketball": true, "playFootball": false}}
+{"name": "lisi", "info": {"likeDog": true, "phone": 15576099565}}
